@@ -18,4 +18,5 @@ Procede al pago: Completa tu compra con nuestro proceso de pago seguro.
 Disfruta de tus productos: Recibe tus productos directamente en tu puerta y disfruta de la comodidad de Higo Web.
 Contacto
 Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos a través de nuestro sitio web o envíanos un correo electrónico a support@higoweb.com.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://cdn.discordapp.com/attachments/1107708568314065038/1263700768326815795/image.png?ex=669b308d&is=6699df0d&hm=b62f6acd8f6f87b37a52dbf9468de0c7d31e52f0622f67cec5a63f07bac26982&))
