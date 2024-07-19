@@ -1,7 +1,7 @@
 # Higo Web
 > Bienvenido a Higo Web, tu tienda en línea de confianza para productos esenciales de calidad. Nuestra misión es simplificar tu vida diaria al ofrecerte una selección confiable y conveniente de productos directamente a tu puerta.
 
-Descripción
+## Descripción
 En Higo Web, creemos que las compras deben ser fáciles y accesibles. Nos especializamos en proporcionar una amplia gama de productos esenciales que satisfacen las necesidades diarias de nuestros clientes. Desde productos de cuidado personal hasta artículos para el hogar, nuestro objetivo es garantizar que siempre tengas lo que necesitas al alcance de un clic.
 
 Características
